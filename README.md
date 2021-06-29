@@ -4,19 +4,19 @@ languages:
 - csharp
 products:
 - office-teams
-description: Scrums for channels helps you get status updates from your team in channel scope
+description: Redapt Scrum Bot helps you get status updates from your team in channel scope
 urlFragment: microsoft-teams-apps-scrumsforchannels
 ---
 
-# Scrums for Channels
+# Redapt Scrum Bot
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
-Scrums for Channels is a scrum assistant app that enables users to schedule and run scrum meetings within Microsoft Teams.  The app is installed in a team scope and all members who have been added to a scrum team can participate in the scrum.
+Redapt Scrum Bot is a scrum assistant app that enables users to schedule and run scrum meetings within Microsoft Teams.  The app is installed in a team scope and all members who have been added to a scrum team can participate in the scrum.
 The app works great for teams that have members participating remotely from varied geographical locations or different time zones. 
 
-With the Scrums for Channels app in Microsoft Teams, users can:
+With the Redapt Scrum Bot app in Microsoft Teams, users can:
  -  Run scrums in a channel
  -  Schedule a scrum at a specified time based on a time zone 
  -  Select the team members who will be part of the scrum
@@ -28,11 +28,11 @@ A typical scrum workflow using the app will be:
 2. An adaptive card is posted on the channel with buttons to share status updates, view details entered by other scrum members, and to end the scrum. The card also displays the status of the scrum (active or closed), the number of participants who have contributed to the scrum or have marked their status as blocked
 3. Users can choose to share their updates, view details updated by other team members and end the scrum
 
-Here are some screenshots of a user interacting with Scrums for Channels :
+Here are some screenshots of a user interacting with Redapt Scrum Bot :
 
 **Configure scrums**
 
-![Scrums for Channels settings task module screen](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Images/SettingsScreen.png)
+![Redapt Scrum Bot settings task module screen](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Images/SettingsScreen.png)
 
 **Provide your updates when a scrum is active**
 
@@ -65,7 +65,7 @@ This app template is provided under the [MIT License](https://github.com/OfficeD
 
 Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Solution-overview) to read about what the app does and how it works.
 
-When you're ready to try out Scrums for Channels, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Deployment-Guide).
+When you're ready to try out Redapt Scrum Bot, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-scrumsforchannels/wiki/Deployment-Guide).
 
 ## Contributing
 

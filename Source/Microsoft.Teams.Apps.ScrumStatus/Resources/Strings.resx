@@ -302,7 +302,7 @@
     <comment>Title for any blockers field on scrum details task module.</comment>
   </data>
   <data name="ScrumDetailsTodayTaskDescriptionTitle" xml:space="preserve">
-    <value>What will you do today?</value>
+    <value>What are the 1-2 things that you need to achieve today in order for this to be a successful day?</value>
     <comment>Title for today task description field on scrum details task module.</comment>
   </data>
   <data name="ScrumDetailsYesterdayTaskDescriptionTitle" xml:space="preserve">
