@@ -182,7 +182,7 @@
     <comment>Placeholder for any blockers input field on update status task module.</comment>
   </data>
   <data name="UpdateStatusAnyBlockersTitle" xml:space="preserve">
-    <value>Any blockers?</value>
+    <value>Any blockers? (Leave this blank if there's nothing blocking your work)</value>
     <comment>Title for any blockers field on update status task module.</comment>
   </data>
   <data name="UpdateStatusSubmitButtonText" xml:space="preserve">
@@ -194,7 +194,7 @@
     <comment>Placeholder text for today task description input field on update status task module.</comment>
   </data>
   <data name="UpdateStatusTodayDescriptionTitle" xml:space="preserve">
-    <value>*What will you do today?</value>
+    <value>*What are the 1-2 things that you need to achieve today in order for this to be a successful day?</value>
     <comment>Title for today task description field on update status task module.</comment>
   </data>
   <data name="UpdateStatusYesterdayDescriptionPlaceholder" xml:space="preserve">
@@ -298,7 +298,7 @@
     <comment>Text to show on update status button.</comment>
   </data>
   <data name="ScrumDetailsAnyBlockersTitle" xml:space="preserve">
-    <value>Any blockers?</value>
+    <value>Any blockers? (Leave this blank if there's nothing blocking your work)</value>
     <comment>Title for any blockers field on scrum details task module.</comment>
   </data>
   <data name="ScrumDetailsTodayTaskDescriptionTitle" xml:space="preserve">
