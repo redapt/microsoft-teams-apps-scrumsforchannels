@@ -334,7 +334,7 @@
     <comment>Text to show in the middle of the start scrum card when any first status is updated.</comment>
   </data>
   <data name="StartScrumCardWelcomeText" xml:space="preserve">
-    <value>Hey guys! Can't wait to hear from you fellows...</value>
+    <value>Hey, I've started a new checkin. Please submit a status update.</value>
     <comment>Text to show in the middle of the start scrum card when it is sent for the first time in a day.</comment>
   </data>
   <data name="ScrumRunningStatusActive" xml:space="preserve">
